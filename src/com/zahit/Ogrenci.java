@@ -1,7 +1,7 @@
 package com.zahit;
 
 public class Ogrenci {
-	private int id;
+	private int Ogrenciid;
 	private String ad;
 
 }
